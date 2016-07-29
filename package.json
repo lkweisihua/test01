@@ -4,7 +4,15 @@
   "version": "0.0.1"
 },
   {
-  "name": "application-name1",
-  "version": "0.0.2"
-}
+    "name": "application-name1",
+    "version": "0.0.2"
+  },
+  {
+    "name": "application-name2",
+    "version": "0.0.3"
+  },
+  {
+    "name": "application-name3",
+    "version": "0.0.4"
+  }
   ]
