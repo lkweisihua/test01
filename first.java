@@ -5,6 +5,6 @@ public class first{
   private int iL=1;
   public  void  test(){
 
-
+    String strTest="weisihua";
   }
 }
