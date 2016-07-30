@@ -7,5 +7,6 @@ public class first{
   public  void  test(){
 
     String strTest="weisihua";
+    strTest="add1";
   }
 }
